@@ -2,7 +2,7 @@
 
 
 ```
-Hi! I'm Deepak. I'm a front-end web developer based in Mumbai 😉
+Hi! I'm Deepak. I'm a front-end web developer from Mumbai, India 😉
 
 I made this project using: HTML & CSS and with some 🖤
 
